@@ -1,0 +1,24 @@
+.jumbotron {
+    padding-top: 6rem;
+    background-color: beige;
+}
+
+#about {
+    background-color: beige;
+}
+
+#blog {
+    background-color: beige;
+}
+
+#galeri {
+    background-color: beige;
+}
+
+#contact {
+    background-color: beige;
+}
+
+section {
+    padding-top: 5rem;
+}
